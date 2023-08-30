@@ -9,9 +9,6 @@
     justify-content: flex-end;
 }
 
-section{
-    height: 100vh;
-}
 
 #firstSec>div{
     height: 100vh;
@@ -132,9 +129,9 @@ section{
 }
 
 
-#itemView{
-    margin-top: 10%; !important;
-}
+/*#itemView{*/
+/*    margin-top: 10%; !important;*/
+/*}*/
 
 .vl-d {
     background-color: grey;
